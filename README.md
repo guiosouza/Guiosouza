@@ -2,7 +2,7 @@ Olá! Guilherme aqui! 👋
 
 - 🔭 Cursando Análise e Desenvolvimento de Sistemas
 - 🌱 Aprendendo o gostoso JavaScript
-- 😄 Olha só, também gosto de design!
+- 😄
 
 <div align="center">
   <a href="https://github.com/guiosouza">
