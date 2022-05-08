@@ -1,7 +1,7 @@
 Olá! Guilherme aqui! 👋
 
 - 🔭 Cursando Análise e Desenvolvimento de Sistemas
-- 🌱 Aprendendo o gostoso JavaScript
+- 🌱 Aprendendo JAVA e JavaScript
 - 😄
 
 <div align="center">
