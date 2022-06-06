@@ -1,8 +1,9 @@
 Olá! Guilherme aqui! 👋
 
 - 🔭 Cursando Análise e Desenvolvimento de Sistemas
-- 🌱 Aprendendo JAVA e JavaScript
-- 😄
+- 🌱 Really excited to test new projects 😄
+
+See you at the end of the code!
 
 <div align="center">
   <a href="https://github.com/guiosouza">
