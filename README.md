@@ -1,4 +1,4 @@
-Olá! Guilherme aqui! 👋
+Olá! Gui aqui! 👋
 
 - 🔭 Cursando Análise e Desenvolvimento de Sistemas
 - 🌱 Really excited to test new projects 😄
