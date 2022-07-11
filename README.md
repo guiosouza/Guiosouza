@@ -1,9 +1,9 @@
-Olá! Gui aqui! 👋
+## Olá! Gui aqui! 👋
 
-- 🔭 Cursando Análise e Desenvolvimento de Sistemas.
-- 🌱 Really excited to test new projects 😄
+- Cursando Análise e Desenvolvimento de Sistemas.
+- Open to learn 😀😀😀
 
-See you at the end of the code!
+`See you at the end of the code!`
 
 <div align="center">
   <a href="https://github.com/guiosouza">
@@ -11,11 +11,7 @@ See you at the end of the code!
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiosouza&layout=compact&langs_count=7&theme=dark"/>
 <div>
   
-<div style="display: inline_block"><br>
-  <img align="center" alt="gui-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="gui-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="gui-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+
   
 ***
 
