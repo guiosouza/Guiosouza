@@ -1,4 +1,4 @@
-## Olá! Gui aqui! 👋
+## Olá! Guilherme aqui! 👋
 
 - Cursando Análise e Desenvolvimento de Sistemas.
 - Open to learn 😀😀😀
