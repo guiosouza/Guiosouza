@@ -19,5 +19,8 @@
   <a href="mailto:guilhermedeoliveiradesouza@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/guilherme-de-oliveira-de-souza-5664111b3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
-  
+
+***
 ![image](https://user-images.githubusercontent.com/78989152/185930363-753e6183-3d7c-4c6f-858e-7b2ea8f75ac8.png)
+
+***
