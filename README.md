@@ -1,6 +1,6 @@
 ## Olá! Guilherme aqui! 👋
 
-- Cursando Análise e Desenvolvimento de Sistemas.
+- Design lover.
 - Open to learn 😀😀😀
 
 ### `See you at the end of the code!`
