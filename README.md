@@ -1,6 +1,6 @@
 ## Olá! Guilherme aqui! 👋
 
-- Design lover.
+- Front-end lover.
 - Open to learn 😀😀😀
 
 ### `See you at the end of the code!`
