@@ -1,9 +1,9 @@
-## Olá! Guilherme aqui! 👋
+## Hello! Guilherme here! 👋
 
-- Front-end lover.
+Front-end and illustration enthusiast.
 - Open to learn 😀😀😀
 
-### `See you at the end of the code!`
+## `See you at the end of the code!`
 
 <div align="center">
   <a href="https://github.com/guiosouza">
