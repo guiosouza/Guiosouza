@@ -6,7 +6,7 @@
 <br>
 
 ## BIO! 👋
-My name is Guilherme de Oliveira, I live in Franca-SP Brazil. I'm currently studying _Systems Analysis and Development_ at <a href = "https://site.fatecfranca.edu.br/"> Fatec - Franca</a> and working at <a href = "https://www.hgfpay.com.br/">HGF Pay Interface de pagamentos e recebimentos</a> as a Web Development Interneship. I am passionate about technology, design with UI/UX and illustration.
+My name is Guilherme de Oliveira, I live in Franca-SP Brazil. I graduated in Systems Analysis and Development from <a href = "https://site.fatecfranca.edu.br/"> Fatec - Franca</a> and working at <a href = "https://www.voucurtir.com.br/">Vou Curtir</a> as a Web Developer. I am passionate about technology, desigg and illustration.
 
 <br>
 
