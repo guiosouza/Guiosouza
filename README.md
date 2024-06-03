@@ -6,7 +6,7 @@
 <br>
 
 ## BIO! 👋
-My name is Guilherme de Oliveira, I live in Franca-SP Brazil. I graduated in Systems Analysis and Development from <a href = "https://site.fatecfranca.edu.br/"> Fatec - Franca</a> and working at <a href = "https://www.voucurtir.com.br/">Vou Curtir</a> as a Web Developer. I am passionate about technology, desigg and illustration.
+My name is Guilherme de Oliveira, I live in Franca-SP Brazil. I graduated in Systems Analysis and Development from <a href = "https://site.fatecfranca.edu.br/"> Fatec - Franca</a> and working at <a href = "https://www.voucurtir.com.br/">Vou Curtir</a> as a Web Developer. I am passionate about technology, design and illustration.
 
 <br>
 
